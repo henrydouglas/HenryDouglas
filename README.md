@@ -51,8 +51,5 @@ My main technology is **Java**, but I also have strong experience with **JavaScr
 ---
 
 ## ✨ Let's Connect
-💼 LinkedIn  
-📧 Email  
-🌐 Portfolio  
-
-> _Feel free to connect and collaborate on awesome projects! 🚀_
+💼 [LinkedIn](https://www.linkedin.com/in/henrydouglas)  
+📧 [Email](henry.tdp@gmail.com)
